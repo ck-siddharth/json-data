@@ -1,0 +1,12 @@
+[
+    {
+        "backgroundColor": "#FF5733",
+        "color": "#FFFFFF",
+        "content": "This is a notification message 1."
+    },
+    {
+        "backgroundColor": "#3374FF",
+        "color": "#FFFFFF",
+        "content": "This is a notification message 2."
+    }
+]
